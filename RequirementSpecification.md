@@ -1,4 +1,4 @@
-1 Purpose
+1. Purpose
 
 -This project is a mobile application designed to help travelers plan, track, and share their trips efficiently. 
 -Users can create trips that can include travel details such as flights, accommodations, and activities. 
